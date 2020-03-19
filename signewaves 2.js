@@ -12,7 +12,7 @@ function draw() {
   
   angleInc+= 0.0001;
 
-  var scale = 500;
+  var scale = 800;
   var offset = 10.0;
   var angle = 10;
   
